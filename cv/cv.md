@@ -40,7 +40,7 @@
 
 #### Senior DevOps engineer 
 
-*Aug 2017until now*
+*Aug 2017 until now*
 
 ##### Fyber GmbH
 
