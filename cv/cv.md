@@ -20,7 +20,7 @@
 
 ### SUMMARY
 
-    Experienced **DevOps engineer**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
+Experienced **DevOps engineer**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
 
 
 
