@@ -6,53 +6,56 @@
 
 ### TECHNICAL SKILLS
 
-- AWS/GCP
-- Terraform/CloudFormation
-- Mesos/Kubernetes
+- AWS
+- Terraform
+- Kubernetes/Mesos
 - Docker
 - Linux
-- Prometheus
+- Monitoring/Logging solutions
 - Nginx
-- Ansible
+- Automation
 - Python
 
 
 
 ### SUMMARY
 
-​    Responsible and experienced **DevOps engineer**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
+    Experienced **DevOps engineer**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
 
 
 
 ### CORE COMPETENCIES
 
 - Team player
-
 - Troubleshooting guru
-
 - Automation enthusiast
-
 - Script master 
 
 
 
 ### PROFESSIONAL EXPERIENCE
 
+#### DevOps engineer
+
+*Nov 2018* *(until now)*
+
+##### Daimler Mobility
+
+- Build infrastructure from scratch in AWS for financial application with focus on automation and maintenance reduction.
+- Delivered solution for centralized logging and monitoring based on DataDog and OpsGenie.
+- Designed and implemented CI/CD solution with Gocd.
+
 #### Senior DevOps engineer 
 
-*Aug 2017 until now*
+*Aug 2017 Oct 2018* *(1 year 3 months)*
 
 ##### Fyber GmbH
 
 - Working as part of a team to break up a monolithic Rails application in to smaller microservices, containerising them, and moving them to AWS.
-
 - Leading a large scale cost saving project - A migration to Spotinst.
   (50.000$ to 6.000$ per month) 
-
 - Building cloud architecture using an Infrastructure-as-code approach.
-
 - 0-provisioning used where possible.
-
 - Responsible for maintaining the legacy data center.
 
 
@@ -63,10 +66,8 @@
 ##### EPAM Systems Inc
 
 - Code, automate, test, deploy, run!
-
--  Full infrastructure in AWS. Built with Cloud Formation and provisioned with SaltStack, using an Infrastructure as a Code approach.
-
--  Split monolithic platform into microservices as part of a SCRUM team.
+- Full infrastructure in AWS. Built with Cloud Formation and provisioned with SaltStack, using an Infrastructure as a Code approach.
+- Split monolithic platform into microservices as part of a SCRUM team.
 
 
 #### DevOps engineer
@@ -76,11 +77,8 @@
 ##### LLC Pronto Media Holding
 
 - As a team player successfully migrated infrastructure between Data Centers. Many parts were redesigned, changed and virtualized. 
-
 - Built automatic solution for Mysql(core system component) backup/restore/test pipeline.
-
 - Built monitoring based on Zabbix.
-
 - Implemented CI/CD with Ansible and Atlassian Bamboo.
 
 
@@ -91,8 +89,8 @@
 ##### LLC Lavtech.ru
 
 - Leading the migration process
--  Built the new infrastructure from scratch.
--  Built the monitoring system.
+- Built the new infrastructure from scratch.
+- Built the monitoring system.
 
 
 
@@ -103,7 +101,7 @@
 ##### Fereelancer
 
 - Built new infrastructure from scratch in AWS.
--  Creates CI/CD
+- Creates CI/CD
 
 ###### 
 
@@ -114,7 +112,7 @@
 ##### Orient express bank
 
 - Leading the team of Systems Engineers through Data Center to Data Center migration process, including the initial hardware network, SAN setup and monitoring.
--  Worked with developers to create credit scoring application based on top of IBM WebSphere. 
+- Worked with developers to create credit scoring application based on top of IBM WebSphere. 
 
 ###### 
 
@@ -125,9 +123,9 @@
 ##### Master Bank
 
 - Invented, developed and implemented SAN from scratch.
--  Was involved in management of significant mail flows. Obtained strong postfix skills.
--  DevOps in a team building new e-commerce platform.
--  Infrastructure support, incident management, etc.
+- Was involved in management of significant mail flows. Obtained strong postfix skills.
+- DevOps in a team building new e-commerce platform.
+- Infrastructure support, incident management, etc.
 
 ###### 
 
