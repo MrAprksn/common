@@ -47,7 +47,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 #### Senior DevOps engineer 
 
-*Aug 2017 Oct 2018* *(1 year 3 months)*
+*Aug 2017 - Oct 2018* *(1 year 3 months)*
 
 ##### Fyber GmbH
 
