@@ -35,9 +35,19 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 ### PROFESSIONAL EXPERIENCE
 
+#### Sr. Platform Engineer
+
+*Jan 2020* *(until now)*
+
+##### Mobimeo
+
+- Focused on infrastructure deployment automation to minimise effort needed and increase durability
+- Mooved existing cloud setup towards Service model to reduce maintenance costs
+- Provide infrastructure support to Dev, Data, ML, etc. teams 
+
 #### DevOps engineer
 
-*Nov 2018* *(until now)*
+*Nov 2018 - Dec 2019* *(1 year 2 months)*
 
 ##### Daimler Mobility
 
