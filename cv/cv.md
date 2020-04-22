@@ -11,10 +11,10 @@
 - Kubernetes/Mesos
 - Docker
 - Linux
-- Monitoring/Logging solutions
-- Nginx
+- Monitoring/Logging
+- CI/CD
 - Automation
-- Python
+- Python, golang
 
 
 
@@ -42,7 +42,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 ##### Mobimeo
 
 - Focused on infrastructure deployment automation to minimise effort needed and increase durability
-- Mooved existing cloud setup towards Service model to reduce maintenance costs
+- Moved existing cloud setup towards Service model to reduce maintenance costs
 - Provide infrastructure support to Dev, Data, ML, etc. teams 
 
 #### DevOps engineer
