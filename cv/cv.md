@@ -7,8 +7,8 @@
 ### TECHNICAL SKILLS
 
 - AWS
-- Terraform
 - Kubernetes/Mesos
+- Hashicorp tools (Terraform, Consul, Vault)
 - Docker
 - Linux
 - Monitoring/Logging
@@ -42,9 +42,8 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 ##### Mobimeo
 
 - Build in-house monitoring with open source tools like Prometheus, Grafana, Loki.
-- Moved existing cloud setup towards Service model to reduce maintenance costs
 - Migrated k8s deployments from helm v2 to helm v3.
-- Provide infrastructure support to Dev, Data, ML, etc. teams 
+- Provided infrastructure support to Dev, Data, ML, etc. teams.
 
 #### DevOps engineer
 
@@ -52,7 +51,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 ##### Daimler Mobility
 
-- Build infrastructure from scratch in AWS for financial application with focus on automation and maintenance reduction.
+- For financial application build AWS environment with focus on security, automation and maintenance reduction.
 - Delivered solution for centralized logging and monitoring based on DataDog and OpsGenie.
 - Designed and implemented CI/CD solution with Gocd.
 
@@ -62,12 +61,11 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 ##### Fyber GmbH
 
-- Working as part of a team to break up a monolithic Rails application in to smaller microservices, containerising them, and moving them to AWS.
+- Worked as part of a team to break up a monolithic Rails application in to smaller microservices, containerised them, and moved them to AWS ECS.
 - Leading a large scale cost saving project - A migration to Spotinst.
   (50.000$ to 6.000$ per month) 
-- Building cloud architecture using an Infrastructure-as-code approach.
-- 0-provisioning used where possible.
-- Responsible for maintaining the legacy data center.
+- Builded AWS cloud environment with Hashicorp Terraform.
+- Was responsible for maintaining the legacy data center.
 
 
 #### Senior DevOps engineer
