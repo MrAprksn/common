@@ -64,7 +64,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 - Worked as part of a team to break up a monolithic Rails application in to smaller microservices, containerised them, and moved them to AWS ECS.
 - Leading a large scale cost saving project - A migration to Spotinst.
   (50.000$ to 6.000$ per month) 
-- Builded AWS cloud environment with Hashicorp Terraform.
+- Build AWS cloud environment with Hashicorp Terraform.
 - Was responsible for maintaining the legacy data center.
 
 
