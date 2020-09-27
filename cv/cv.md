@@ -146,7 +146,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 - Hardware support (SUN Microsystems, HDS, Brocade)
 - OS Support (Solaris, RHEL, SLES)
-- Inceident management
+- Incident management
 - Communications with vendors support services
 - Providing audit of various unstructured SAN’s.
 
@@ -160,8 +160,8 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 - Hardware support (SUN Microsystems, HDS, Brocade, 3000+ units)
 - OS Support (Solaris, RHEL, SLES)
-- Core SoftWare support (VxFS, VxCS, Veritas NetaBackup)
-- Inceident management
+- Core SoftWare support (VxFS, VxCS, Veritas NetBackup)
+- Incident management
 - Mentoring juniors
 
 
