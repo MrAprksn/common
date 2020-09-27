@@ -43,7 +43,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 - Build in-house monitoring with open source tools like Prometheus, Grafana, Loki.
 - Migrated k8s deployments from helm v2 to helm v3.
-- Provided infrastructure support to Dev, Data, ML, etc. teams.
+- Provided AWS infrastructure support to Dev, Data, ML, etc. teams.
 
 #### DevOps engineer
 
