@@ -1,1 +1,4 @@
-# common
+- 👋 Hi! My name is Deema.
+- 🤘 I’m SRE, DevOps and Cloud Infrastructure developer.
+- 🌱 I’m flying on k8s and terraform in AWS and GCP
+- 📫 Wanna reach me out? I's [simple](https://www.linkedin.com/in/dmitrytrasov/)!
