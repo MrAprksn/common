@@ -51,7 +51,7 @@ AWS EKS service. Followed GitOps principles, simplicity, code clearness and mini
 
 ##### Daimler Mobility
 
-- For financial application build AWS environment (core services running in Kubernetes) with focus on security, automation and maintenance simplicity.
+- For financial PCI DSS certified application, build AWS environment (core services running in Kubernetes) with focus on security, automation and maintenance simplicity.
 - Delivered solution for centralized logging and monitoring based on DataDog and OpsGenie.
 - Designed and implemented CI/CD solution with Gocd.
 
