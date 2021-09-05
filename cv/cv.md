@@ -1,17 +1,17 @@
 # Dmitry Tarasov
 
-## Senior DevOps Engineer
+## Senior SRE
 
 
 
 ### TECHNICAL SKILLS
 
 - AWS
-- Kubernetes/Mesos
-- Hashicorp tools (Terraform, Consul, Vault)
+- Kubernetes
+- Hashicorp tools (Terraform, Consul, Vault, etc...)
 - Docker
 - Linux
-- Monitoring/Logging
+- Observability
 - CI/CD
 - Automation
 - Python, golang
@@ -20,7 +20,7 @@
 
 ### SUMMARY
 
-Experienced **DevOps engineer**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
+Experienced **SRE**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
 
 
 
@@ -41,9 +41,9 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 ##### Mobimeo
 
-- Build in-house monitoring with open source tools like Prometheus, Grafana, Loki.
-- Migrated k8s deployments from helm v2 to helm v3.
-- Provided AWS infrastructure support to Dev, Data, ML, etc. teams.
+- As part of company merge, build well architected, well automated, well monitored, very well documented, self-sufficient AWS-cloud based infrastructure, consolidated around
+AWS EKS service. Followed GitOps principles, simplicity, code clearness and minimal maintainability.
+- Provided AWS infrastructure support to various back end teams, Data, ML, etc...
 
 #### DevOps engineer
 
@@ -51,7 +51,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 
 ##### Daimler Mobility
 
-- For financial application build AWS environment with focus on security, automation and maintenance reduction.
+- For financial application build AWS environment (core services running in Kubernetes) with focus on security, automation and maintenance simplicity.
 - Delivered solution for centralized logging and monitoring based on DataDog and OpsGenie.
 - Designed and implemented CI/CD solution with Gocd.
 
@@ -64,7 +64,7 @@ Experienced **DevOps engineer**, focused on cloud environments and micro-service
 - Worked as part of a team to break up a monolithic Rails application in to smaller microservices, containerised them, and moved them to AWS ECS.
 - Was leading a large scale cost saving project - A migration to Spotinst.
   (50.000$ to 6.000$ per month) 
-- Build AWS cloud environment with Hashicorp Terraform.
+- Build automated AWS cloud environment with Terraform.
 - Was responsible for maintaining the legacy data center.
 
 
