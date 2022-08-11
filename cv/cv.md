@@ -14,7 +14,7 @@
 - Observability
 - CI/CD
 - Automation
-- Python, Rustlang
+- Python, Rust
 
 
 
