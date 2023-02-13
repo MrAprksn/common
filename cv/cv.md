@@ -20,6 +20,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - I followed GitOps principles, emphasizing simplicity, code clarity, and minimal maintainability.
 - Additionally, I provided AWS infrastructure support to various back-end teams, including Data and ML.
 
+---------
+
 #### DevOps engineer
 
 *Nov 2018 - Dec 2019* *(1 year 2 months)*
@@ -29,6 +31,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Developed a PCI DSS certified financial application in an AWS environment (core services running in Kubernetes) with a focus on security, automation, and maintenance simplicity.
 - Constructed a centralized logging and monitoring solution based on DataDog and OpsGenie.
 - Designed and implemented a CI/CD solution using Gocd.
+
+---------
 
 #### Senior DevOps engineer 
 
@@ -41,6 +45,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Constructed an automated AWS cloud environment using Terraform.
 - Assumed responsibility for maintaining the legacy data center.
 
+---------
+
 #### Senior DevOps engineer
 
 *Oct 2016 - Aug 2017* *(11 months)*
@@ -51,6 +57,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Full infrastructure in AWS. Built with Cloud Formation and provisioned with SaltStack, using an Infrastructure as a Code approach.
 - Split monolithic platform into microservices as part of a SCRUM team.
 
+---------
 
 #### DevOps engineer
 
@@ -63,6 +70,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Built monitoring based on Zabbix.
 - Implemented CI/CD with Ansible and Atlassian Bamboo.
 
+---------
 
 #### Lead system engineer
 
@@ -74,7 +82,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Built the new infrastructure from scratch.
 - Built the monitoring system.
 
-
+---------
 
 #### System engineer
 
@@ -87,6 +95,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ###### 
 
+---------
+
 #### Lead system engineer
 
 *Feb 2014 - Sep 2014* *(8 months)*
@@ -97,6 +107,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Worked with developers to create credit scoring application based on top of IBM WebSphere. 
 
 ###### 
+
+---------
 
 #### System Engineer
 
@@ -111,6 +123,8 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ###### 
 
+---------
+
 #### System Engineer
 
 *Dec 2011 - May 2013* *(1 year 5 months)*
@@ -123,7 +137,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Communications with vendors support services
 - Providing audit of various unstructured SAN’s.
 
-
+---------
 
 #### System Engineer
 
@@ -137,7 +151,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 - Incident management
 - Mentoring juniors
 
-
+---------
 
 #### System Engineer
 
