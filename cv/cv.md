@@ -2,36 +2,11 @@
 
 ## Senior SRE
 
+I am an experienced Senior SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include AWS, Kubernetes, Hashicorp tools (Terraform, Consul, Vault, etc.), Docker, Linux, Observability, CI/CD, Automation, and Python and Rust.
 
+## CORE COMPETENCIES
 
-### TECHNICAL SKILLS
-
-- AWS
-- Kubernetes
-- Hashicorp tools (Terraform, Consul, Vault, etc...)
-- Docker
-- Linux
-- Observability
-- CI/CD
-- Automation
-- Python, Rust
-
-
-
-### SUMMARY
-
-Experienced **SRE**, focused on cloud environments and micro-services with strong background in the Enterprise sector and Open Source projects, inspired by planning, deploying, running and monitoring infrastructure in the cloud, automating CI/CD processes, learning new technologies.
-
-
-
-### CORE COMPETENCIES
-
-- Team player
-- Troubleshooting guru
-- Automation enthusiast
-- Script master 
-
-
+I am a team player, troubleshooting guru, automation enthusiast, script master, and cloud expert. I have a proven track record of success in developing and deploying cloud-based solutions, automating processes, and troubleshooting complex issues.
 
 ### PROFESSIONAL EXPERIENCE
 
@@ -41,9 +16,9 @@ Experienced **SRE**, focused on cloud environments and micro-services with stron
 
 ##### Mobimeo
 
-- As part of company merge, build well architected, well automated, well monitored, very well documented, self-sufficient AWS-cloud based infrastructure, consolidated around
-AWS EKS service. Followed GitOps principles, simplicity, code clearness and minimal maintainability.
-- Provided AWS infrastructure support to various back end teams, Data, ML, etc...
+- As part of a company merger, I built a well-architected, automated, monitored, and well-documented AWS-cloud based infrastructure, consolidated around the AWS EKS service.
+- I followed GitOps principles, emphasizing simplicity, code clarity, and minimal maintainability.
+- Additionally, I provided AWS infrastructure support to various back-end teams, including Data and ML.
 
 #### DevOps engineer
 
@@ -51,9 +26,9 @@ AWS EKS service. Followed GitOps principles, simplicity, code clearness and mini
 
 ##### Daimler Mobility
 
-- For financial PCI DSS certified application, build AWS environment (core services running in Kubernetes) with focus on security, automation and maintenance simplicity.
-- Delivered solution for centralized logging and monitoring based on DataDog and OpsGenie.
-- Designed and implemented CI/CD solution with Gocd.
+- Developed a PCI DSS certified financial application in an AWS environment (core services running in Kubernetes) with a focus on security, automation, and maintenance simplicity.
+- Constructed a centralized logging and monitoring solution based on DataDog and OpsGenie.
+- Designed and implemented a CI/CD solution using Gocd.
 
 #### Senior DevOps engineer 
 
@@ -61,12 +36,10 @@ AWS EKS service. Followed GitOps principles, simplicity, code clearness and mini
 
 ##### Fyber GmbH
 
-- Worked as part of a team to break up a monolithic Rails application in to smaller microservices, containerised them, and moved them to AWS ECS.
-- Was leading a large scale cost saving project - A migration to Spotinst.
-  (50.000$ to 6.000$ per month) 
-- Build automated AWS cloud environment with Terraform.
-- Was responsible for maintaining the legacy data center.
-
+- Collaborated with a team to decompose a monolithic Rails application into smaller microservices, containerize them, and deploy them to AWS ECS.
+- Spearheaded a large-scale cost-saving project, resulting in a migration to Spotinst that reduced monthly expenses from $50,000 to $6,000.
+- Constructed an automated AWS cloud environment using Terraform.
+- Assumed responsibility for maintaining the legacy data center.
 
 #### Senior DevOps engineer
 
