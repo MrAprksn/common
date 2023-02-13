@@ -1,6 +1,6 @@
 # Dmitry Tarasov
 
-## Senior SRE
+## Site Reliability Engineer (SRE)
 
 I am an experienced Senior SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include AWS, Kubernetes, Hashicorp tools (Terraform, Consul, Vault, etc.), Docker, Linux, Observability, CI/CD, Automation, and Python and Rust.
 
