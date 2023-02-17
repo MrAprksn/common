@@ -10,9 +10,20 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ### PROFESSIONAL EXPERIENCE
 
+#### Sr. Cloud Engineer
+
+*Sep 2022* *Feb 2023*
+
+##### Haiilo
+
+- I developed and successfully implemented a concept for unit and integration testing of infrastractural code using Terraform and Terratest within a six-months period.
+- I drove automated deployment initiatives to prevent operator errors and reduce maintenance costs.
+
+---------
+
 #### Sr. Platform Engineer
 
-*Jan 2020* *(until now)*
+*Jan 2020* *Aug 2022*
 
 ##### Mobimeo
 
