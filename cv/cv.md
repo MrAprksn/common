@@ -58,7 +58,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ---------
 
-<font size="4">Senior DevOps engineer @EPAM Systems Inc</font> Oct 2016 - Aug 2017 (11 months)
+<font size="4">Senior DevOps engineer @EPAM Systems Inc</font><font size="1">Oct 2016 - Aug 2017 (11 months)</font>
 ---------
 #### DevOps engineer @LLC Pronto Media Holding
 ---------
