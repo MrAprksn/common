@@ -58,23 +58,32 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ---------
 
-#### Senior DevOps engineer @EPAM Systems Inc  | *Oct 2016 - Aug 2017* *(11 months)*
+#### Senior DevOps engineer @EPAM Systems Inc
+*Oct 2016 - Aug 2017* *(11 months)*
 ---------
-#### DevOps engineer @LLC Pronto Media Holding | *Feb 2016 - Sep 2016* *(8 months)*
+#### DevOps engineer @LLC Pronto Media Holding
+*Feb 2016 - Sep 2016* *(8 months)*
 ---------
-#### Lead system engineer @LLC Lavtech.ru | *Oct 2015 - Feb 2016* *(5 months)*
+#### Lead system engineer @LLC Lavtech.ru
+*Oct 2015 - Feb 2016* *(5 months)*
 ---------
-#### System engineer @Fereelance | *Oct 2014 - Oct 2015* *(1 year)*
+#### System engineer @Fereelance
+*Oct 2014 - Oct 2015* *(1 year)*
 ---------
-#### Lead system engineer @Orient express bank | *Feb 2014 - Sep 2014* *(8 months)*
+#### Lead system engineer @Orient express bank
+*Feb 2014 - Sep 2014* *(8 months)*
 ---------
-#### System Engineer @Master Bank | *Jun 2013 - Jan 2014* *(8 months)*
+#### System Engineer @Master Bank
+*Jun 2013 - Jan 2014* *(8 months)*
 ---------
-#### System Engineer @NVision Group | *Dec 2011 - May 2013* *(1 year 5 months)*
+#### System Engineer @NVision Group
+*Dec 2011 - May 2013* *(1 year 5 months)*
 ---------
-#### System Engineer @LLC Jet Infosystems | *Apr 2010 - Nov 2011* *(1 year 8 months)*
+#### System Engineer @LLC Jet Infosystems
+*Apr 2010 - Nov 2011* *(1 year 8 months)*
 ---------
-#### System Engineer @LLC Su33 | *Nov 2008 - Mar 2010* *(1 year 6 months)*
+#### System Engineer @LLC Su33
+*Nov 2008 - Mar 2010* *(1 year 6 months)*
 ---------
 
 ### EDUCATION
