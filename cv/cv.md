@@ -12,7 +12,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 #### Sr. Cloud Engineer
 
-*Sep 2022* *Feb 2023*
+*Sep 2022 - Feb 2023* *(6 months)*
 
 ##### Haiilo
 
@@ -23,7 +23,7 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 #### Sr. Platform Engineer
 
-*Jan 2020* *Aug 2022*
+*Jan 2020 - Aug 2022* *(2 years 8 months)*
 
 ##### Mobimeo
 
