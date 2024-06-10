@@ -3,7 +3,7 @@ Berlin
 
 ## Site Reliability Engineer (SRE)
 
-I am an experienced SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include Linux of course!,AWS, GCP, Kubernetes, Hashicorp tools (Terraform (Now OpenTofu), Consul, Vault, etc.), Docker, Observability tools (like Grafana, Elastic Search, Prometheus, Loki...) CI/CD (I prefere GitHub Actions, but can work with GitLab, or Jenkins), Automation with bash and Python.
+I am an experienced SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include Linux systems administration, AWS, GCP, Kubernetes, Hashicorp tools (Terraform (Now OpenTofu), Consul, Vault, etc.), Docker, Observability tools (like Grafana, Elastic Search, Prometheus, Loki...) CI/CD (I prefere GitHub Actions, but can work with GitLab, or Jenkins), Automation with bash and Python.
 
 ## CORE COMPETENCIES
 
