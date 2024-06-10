@@ -3,7 +3,7 @@ Berlin
 
 ## Site Reliability Engineer (SRE)
 
-I am an experienced SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include AWS, GCP, Kubernetes, Hashicorp tools (Terraform, Consul, Vault, etc.), Docker, Linux, Observability, CI/CD, Automation, and Python.
+I am an experienced SRE with a strong background in the Enterprise sector and Open Source projects. I am passionate about planning, deploying, running, and monitoring infrastructure in the cloud, automating CI/CD processes, and learning new technologies. My technical skills include Linux of course!,AWS, GCP, Kubernetes, Hashicorp tools (Terraform (Now OpenTofu), Consul, Vault, etc.), Docker, Observability tools (like Grafana, Elastic Search, Prometheus, Loki...) CI/CD (I prefere GitHub Actions, but can work with GitLab, or Jenkins), Automation with bash and Python.
 
 ## CORE COMPETENCIES
 
@@ -11,14 +11,15 @@ I am a team player, troubleshooting guru, automation enthusiast, script master, 
 
 ### PROFESSIONAL EXPERIENCE
 
-#### Sr. Cloud Engineer
+#### Sr. SRE
 
-*Sep 2022 - Feb 2023* *(6 months)*
+*Jul 2023 - until now* *(1 year)*
 
-##### Haiilo
+##### Hubject GmbH
 
-- I developed and successfully implemented a concept for unit and integration testing of infrastractural code using Terraform and Terratest within a six-months period.
-- I drove automated deployment initiatives to prevent operator errors and reduce maintenance costs.
+- I was managing entire company AWS infrastructure, supporting legacy code base, and running migration to the modern stack. 
+- Was running Cost saving projects, reducing AWS monthly bills.
+- Was part of the system design team, when it comes to the new services introduction.
 
 ---------
 #### Sr. Platform Engineer
